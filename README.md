@@ -4,6 +4,28 @@
 
 **Paper:** [https://arxiv.org/abs/2404.02151](https://arxiv.org/abs/2404.02151)
 
+## Modifications by Aryan Dutt (July 2025)
+
+This fork includes adaptations for more controlled experimentation and easier logging:
+
+- **Token-secured model loading** via `os.getenv("HF_TOKEN")` for better security.
+- **Custom logging support** via the `our_logs/` directory — useful for tracking Colab Pro runs.
+- Intended for **reproducing jailbreak behavior** across both pure AI and neuro-symbolic systems.
+- Compatible with HuggingFace token-authenticated downloads and Colab-based GPU inference.
+
+Execution logs will be saved in: `our_logs/`
+
+GPU experiments can be run on Colab Pro; adjust `main.py` for any runtime path changes if needed.
+
+---
+
+### Next Steps (Internal Use)
+
+- [ ] Reproduce baseline jailbreak results
+- [ ] Test model against token-analysis and psychological defense techniques
+- [ ] Extend logs for symbolic algebra guardrails (future work)
+
+
 **ICLR 2025**
 
 <!-- <p align="center"><img src="images/title_abstract.png" width="900" /></p> -->

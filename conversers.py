@@ -1,6 +1,9 @@
 import common
 import torch
+from dotenv import load_dotenv
 import os
+load_dotenv()
+HF_TOKEN = os.getenv("HF_TOKEN")
 from typing import List
 from language_models import GPT, HuggingFace
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -96,16 +99,18 @@ def load_indiv_model(model_name, device=None):
         lm = GPT(model_name)
     else:
         model = AutoModelForCausalLM.from_pretrained(
-                model_path, 
-                torch_dtype=torch.float16,
-                low_cpu_mem_usage=True, device_map="auto",
-                token=os.getenv("HF_TOKEN"),
-                trust_remote_code=True).eval()
+            model_path,
+            torch_dtype=torch.float16,
+            low_cpu_mem_usage=True,
+            device_map="auto",
+            use_auth_token=os.getenv("HF_TOKEN"),
+            trust_remote_code=True
+        ).eval()
 
         tokenizer = AutoTokenizer.from_pretrained(
             model_path,
             use_fast=False,
-            token=os.getenv("HF_TOKEN")
+            use_auth_token=os.getenv("HF_TOKEN")
         )
 
         if 'llama2' in model_path.lower():

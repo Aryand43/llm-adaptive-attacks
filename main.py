@@ -1,5 +1,3 @@
-import os
-os.environ["HF_HOME"] = "/tmlscratch/andriush/models/"
 import argparse
 import random
 import string
@@ -11,6 +9,12 @@ from language_models import GPT
 from prompts import get_universal_manual_prompt
 from conversers import load_target_model
 from utils import insert_adv_string, schedule_n_to_change_fixed, schedule_n_to_change_prob, extract_logprob, early_stopping_condition
+from dotenv import load_dotenv
+from huggingface_hub import login
+import os
+
+load_dotenv()
+login(os.getenv("HF_TOKEN"))
 
 def main(args):
     random.seed(args.seed)
