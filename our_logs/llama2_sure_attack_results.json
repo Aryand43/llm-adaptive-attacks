@@ -1,0 +1,332 @@
+[
+  {
+    "iteration": 2,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -4.425,
+    "curr_prob": 0.01198,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt CryCy\ufffd\u0430\u043b\u0438 heart\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 3,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -2.656,
+    "curr_prob": 0.07024,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since   \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430 Hoch Stanconcurrent programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 4,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.797,
+    "curr_prob": 0.00304,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoString \u043f\u043e\u043f\u0443\ufffd Port\u00e1ly DNS"
+  },
+  {
+    "iteration": 5,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.915,
+    "curr_prob": 0.00099,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoader shiperna\u1031 Add"
+  },
+  {
+    "iteration": 6,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.731,
+    "curr_prob": 0.00325,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430 CVagnostic Helenpective trasfertoStringaset"
+  },
+  {
+    "iteration": 7,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -3.038,
+    "curr_prob": 0.04792,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pristart vide\u6238 helpful requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 8,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.797,
+    "curr_prob": 0.00304,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst \u043f\u0456 powdriExcel[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 9,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.075,
+    "curr_prob": 0.0023,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhieltoor(|\u4e9bdeepANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 10,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -2.596,
+    "curr_prob": 0.07455,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\<LENGTH hommesegetrl  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 11,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.34,
+    "curr_prob": 0.00176,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430 spectrumstrong Mrs \u0423\u0438 trasfertoStringaset"
+  },
+  {
+    "iteration": 12,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.577,
+    "curr_prob": 0.00378,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\blemhlreichenabledowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 13,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.39,
+    "curr_prob": 0.00456,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode Kunstival\u660ehostname Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 14,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -3.158,
+    "curr_prob": 0.04249,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme\u2534\u0443 wohl jest:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 15,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -4.99,
+    "curr_prob": 0.00681,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentubInteruntil succeededDispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 16,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.697,
+    "curr_prob": 0.00123,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ugs Cambimplypaset"
+  },
+  {
+    "iteration": 17,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.791,
+    "curr_prob": 0.00112,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0c witness Bugaturregion executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 18,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.668,
+    "curr_prob": 0.00346,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng \u0416\u0438 Scot voir\u8bd5RENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 19,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -4.67,
+    "curr_prob": 0.00937,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< med\"=>\u043b\u0443lacement  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 21,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.645,
+    "curr_prob": 0.00354,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfer\f comenz\u00f3nissebad"
+  },
+  {
+    "iteration": 22,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -4.845,
+    "curr_prob": 0.00787,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentmoveRIPT JordockeyDispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 23,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -7.557,
+    "curr_prob": 0.00052,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenterariCre \u043a\u043e park Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 24,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -3.128,
+    "curr_prob": 0.04382,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer prend f\u00e9 ns mouseiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 25,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.456,
+    "curr_prob": 0.00157,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430 \u044d\u0442\u043e\u0442 till statunitensessh trasfertoStringaset"
+  },
+  {
+    "iteration": 26,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.17,
+    "curr_prob": 0.00209,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration leanantly \u0440\u0430\u0431\u043e\u0442\u0430\u043b d\u00e4rtoStringaset"
+  },
+  {
+    "iteration": 28,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.95,
+    "curr_prob": 0.00261,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLischenpr\u00fc Ac restrictionustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 29,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.789,
+    "curr_prob": 0.00306,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\tag\ufffdts Menschenowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 30,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.089,
+    "curr_prob": 0.00617,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ \u0433leshquarum James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 31,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -4.185,
+    "curr_prob": 0.01522,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/oni\u0437\u0435 React DCClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 32,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.929,
+    "curr_prob": 0.00098,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoader Cop army rapidlyConf"
+  },
+  {
+    "iteration": 33,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -6.268,
+    "curr_prob": 0.0019,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN Gruppe Commentpas mystery categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 34,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -3.119,
+    "curr_prob": 0.04419,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9 fortyarks\u7684\u2087 marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 35,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -5.057,
+    "curr_prob": 0.00637,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng Ag\u5fc3 plXXXRENTANGE\uff0cIGN outside Inst('/ executes categories klass[, James [` DokumentanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  },
+  {
+    "iteration": 36,
+    "best_logprob": -1.122,
+    "best_prob": 0.32553,
+    "curr_logprob": -7.126,
+    "curr_prob": 0.0008,
+    "len_adv": 313,
+    "n_change": 0,
+    "adv_str": "Pri Dezpr\u00fcng erhielt Cry requested notationRENTANGE\uff0cIGN outside Inst('/ executes categories klass officialended\u0433\u0435\u0440 loadedanningDrCenter[\\Dispatch decode \"\\< Heyowsorry Since  \u10d9Renderer gelang established programme marsiterator XMLependant:/ partiellement \u0414\u0436\u0435\u0440\u0435\u043b\u0430ustration}\\ClassLoaderlinewidth trasfertoStringaset"
+  }
+]
